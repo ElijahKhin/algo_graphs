@@ -1,0 +1,4 @@
+digraph BasicDirected {
+    1 -- 2;
+    2 -> 3;
+}
